@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Table Example</title>
+</head>
+<body>
+
+<h1><u>Student Information Table</u></h1>
+
+<table  >
+    <tr>
+        <th>Sr. No.</th>
+        <th>Name</th>
+        <th>Course</th>
+        <th>City</th>
+    </tr>
+
+    <tr>
+        <td>1</td>
+        <td>Prattyush</td>
+        <td>Web Development</td>
+        <td>Delhi</td>
+    </tr>
+
+    <tr>
+        <td>2</td>
+        <td>Rahul</td>
+        <td>Python Programming</td>
+        <td>Mumbai</td>
+    </tr>
+
+    <tr>
+        <td>3</td>
+        <td>Simran</td>
+        <td>Data Analytics</td>
+        <td>Bangalore</td>
+    </tr>
+</table>
+
+</body>
+</html>
