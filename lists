@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lists Example</title>
+</head>
+<body>
+
+<h1><u>HTML Lists Demonstration</u></h1>
+
+<p>Hello! This page shows different types of <b>lists in HTML</b>, including
+<mark>ordered lists, unordered lists, and description lists.</mark></p>
+
+<!-- Ordered List -->
+<h2>Ordered List (Numbered)</h2>
+<ol>
+    <li>Wake up</li>
+    <li>Brush teeth</li>
+    <li>Go to gym</li>
+</ol>
+
+<!-- Unordered List with Different Types -->
+<h2>Unordered Lists (Bullets)</h2>
+
+<p><b>Disc (default):</b></p>
+<ul type="disc">
+    <li>Milk</li>
+    <li>Bread</li>
+    <li>Butter</li>
+</ul>
+
+<p><b>Circle:</b></p>
+<ul type="circle">
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Orange</li>
+</ul>
+
+<p><b>Square:</b></p>
+<ul type="square">
+    <li>Notebook</li>
+    <li>Pencil</li>
+    <li>Eraser</li>
+</ul>
+
+<!-- Description List -->
+<h2>Description List (Term : Definition)</h2>
+<dl>
+    <dt>HTML</dt>
+    <dd>HyperText Markup Language</dd>
+
+    <dt>CSS</dt>
+    <dd>Used for styling web pages</dd>
+
+    <dt>JavaScript</dt>
+    <dd>Used to add interactivity to a webpage</dd>
+</dl>
+
+<!-- Dummy Hyperlink -->
+<p>Click here to visit a dummy page:
+    <a href="https://www.example.com" target="_blank">Dummy Link</a>
+</p>
+
+</body>
+</html>
